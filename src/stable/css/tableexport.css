@@ -1,5 +1,5 @@
 /*!
- * TableExport.js v3.3.10 (https://www.travismclarke.com)
+ * TableExport.js v3.3.11 (https://www.travismclarke.com)
  * Copyright 2016 Travis Clarke
  * Licensed under the MIT license
  */
@@ -110,6 +110,7 @@
     text-align: center;
     color: #333;
     padding: 10px 30px;
+    z-index: 999;
 
     background: #ffffff; /* Old browsers */
     background: -webkit-linear-gradient(top, #ffffff 0%,#f3f3f3 89%,#f9f9f9 100%); /* Chrome10+,Safari5.1+ */
